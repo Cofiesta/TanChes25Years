@@ -32,8 +32,8 @@ img {
 }
 
 .photo {
-            width: 200px; /* Set the fixed width of the images */
-            height: 200px; /* Set the fixed height of the images */
+            width: 20%; /* Set the fixed width of the images */
+            height: 20%; /* Set the fixed height of the images */
             position: absolute;
             transform-origin: center bottom;
 }
