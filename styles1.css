@@ -2,8 +2,8 @@
     perspective: 1200px; 
     position: absolute;
     overflow: hidden;
-    width: 375px; /* Adjust the dimensions as needed */
-    height: 667px;
+    width: 100%; /* Adjust the dimensions as needed */
+    height: 100%;
 }
 
 img {
