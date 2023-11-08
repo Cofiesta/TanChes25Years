@@ -29,10 +29,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // List of image URLs (you can replace these with your own image URLs)
         var imageUrls = [
-'img1.JPG',
-'img2.JPG',
-'img3.JPG',
-'img4.JPG',
+'/img1.JPG',
+'/img2.JPG',
+'/img3.JPG',
+'/img4.JPG',
 'img5.JPG',
 'img6.JPG',
 'img7.JPG',
